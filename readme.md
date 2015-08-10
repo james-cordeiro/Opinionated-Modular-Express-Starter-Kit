@@ -15,7 +15,7 @@ Whilst the purposes of the StrongLoop article and repo by Marc Harter are likely
 - [ ] Migrations Examples - bin folder likely (MySQL or Other SQL language)
 - [ ] Migrations Examples - bin folder likely (NoSQL)
 - [ ] Migrations Examples - bin folder likely (possibly Graph Databases)
-- 
+ 
 - [ ] BrowserSync - bin folder likely - for dev config
 - [ ] Sass examples - Yes, instead of LESS or STYLUS or Something else as it is preferred (opinionated choice)
 - [ ] GulpFile - instead of Grunt or Other but again, it is preferred and in essence the starter kit needs a build tool
