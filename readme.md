@@ -10,7 +10,7 @@ http://strongloop.com/strongblog/modular-node-js-express/
 
 Whilst the purposes of the StrongLoop article and repo by Marc Harter are likely intended to be a very simplistic (and very good) starter kit and as un-opinionated as possible, by that, I mean not include too many tools/dependencies tieing in the developer's choice of tools and structure to us I will opinionate further the initial starter-kit to include some 'touches' for a more all-round starter-kit.
 
-..Currently, (as the features are added they remain, as yet, desirables. Here are the features to be added as soon as possible:
+..Currently, as the features are added they remain, as yet, desirables. Here are the (desirable) features to be added as soon as possible:
 
 - [ ] Migrations Examples - bin folder likely (MySQL or Other SQL language)
 - [ ] Migrations Examples - bin folder likely (NoSQL)
