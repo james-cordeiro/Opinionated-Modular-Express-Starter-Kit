@@ -4,7 +4,7 @@ This repo is a forked version from the modular express example made by the Stron
 
 http://strongloop.com/strongblog/modular-node-js-express/
 
-:ThumbsUp to the StrongLoop community and Marc Harter for his post as this is a great tool/starter-kit and a lovely improvement on my own initial starter-kit here ``
+:ThumbsUp to the StrongLoop community and Marc Harter for his post as this is a great tool/starter-kit and a lovely improvement on my own initial starter-kit here `https://github.com/james-cordeiro/Node-Express-Starter-Kit`
 
 ## Forked Improvements
 
